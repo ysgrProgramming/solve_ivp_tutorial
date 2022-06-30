@@ -1,0 +1,3 @@
+# solve_ivp_tutorial
+
+scipyのintegrate.solve_ivpモジュールを使って常微分方程式を解き、物理アニメーションを作成する。
